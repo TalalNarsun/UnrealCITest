@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{616C627A-43F9-0C9B-9943-978BE072AD47}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "CITest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
